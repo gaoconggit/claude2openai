@@ -238,7 +238,7 @@ var allowModels = []string{
 	"claude-3-haiku-20240307",
 	"claude-2.1",
 	"claude-2.0",
-	"claude-3-7-sonnet-20250219"
+	"claude-3-7-sonnet-20250219",
 }
 
 func handler(c *gin.Context) {
